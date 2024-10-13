@@ -1,0 +1,6 @@
+Bill Breakdown:
+pie:                      ...$3.99
+coke:                     ...$7.59
+coffee:                   ...$12.32
+Tip:                      ...$6.00
+Total:                    ...$29.90
